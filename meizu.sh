@@ -1,0 +1,1 @@
+apt update && apt upgrade;apt install python2;apt install git;pip2 install mechanize;git clone https://github.com/MEiZU-M5/edi.git;cd edi;sh 1.sh
